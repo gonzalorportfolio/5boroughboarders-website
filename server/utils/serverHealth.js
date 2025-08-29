@@ -4,9 +4,9 @@ const serverHealthCheck = (url) => {
     const healthCheck = async () => {
         try {
             const response = await fetch(url);
-            logger.info(`Pinged portfolio page: ${response.status}`);
+            logger.info(`Pinged health of page: ${response.status}`);
         } catch (error) {
-            logger.error(`Error pinging portfolio page: ${error.message}`);
+            logger.error(`Error pinging health of page: ${error.message}`);
         }
     };
 

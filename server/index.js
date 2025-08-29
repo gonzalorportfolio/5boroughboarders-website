@@ -9,6 +9,7 @@ const { version } = require('./package.json');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+
 // Middleware
 app.use(requestLogger);
 app.use(express.json());
@@ -17,6 +18,18 @@ app.use(express.static(path.join(__dirname, '../frontend/dist')));
 // Routes
 app.get('/', (req, res) => {
     res.status(200).json({ status: 'Hi!' });
+});
+
+app.get('/preview', (req, res) => {
+    const previewImagePath = path.join(__dirname, 'previews', '5bblogo.jpg');
+    res.sendFile(previewImagePath, (err) => {
+        if (err) {
+            logger.error('❌ Error sending preview image:', err);
+            res.status(500).send('Error sending preview image');
+        } else {
+            logger.info('📸 Preview image sent successfully');
+        }
+    });
 });
 
 app.get('/api/health', (req, res) => {

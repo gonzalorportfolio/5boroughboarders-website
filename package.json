@@ -1,6 +1,6 @@
 {
   "name": "five-borough-boarders-website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Website for the Five Borough Boarders company",
   "main": "index.js",
   "scripts": {

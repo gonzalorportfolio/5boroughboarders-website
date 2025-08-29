@@ -60,9 +60,10 @@ are **not included** in the MIT license. They may **not** be reused without perm
 
 ## Changelog
 
-### v1.0.0
+### v1.0.1
 
-First draft/ proof of concept.
+- First draft/ proof of concept.
+- Added preview images to be sent from the server.
 
 ---
 

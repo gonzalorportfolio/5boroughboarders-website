@@ -1,6 +1,8 @@
 # Five Borough Boarders Website 🏂
 
-[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)](https://gonzalorwebdev.mywire.org/)
+![screenshot of homepage](./homepage-screenshot.jpg)
+
+[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)](https://https://5boroughboarders.giize.com//)
 
 ## Project Introduction
 
@@ -27,7 +29,7 @@ _Coming soon_
 
 **Deployment & Infrastructure:**  
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
-<!-- ![Dynu](https://img.shields.io/badge/-Dynu-0085CA?logo=dyndns&logoColor=white&style=for-the-badge) -->
+![Dynu](https://img.shields.io/badge/-Dynu-0085CA?logo=dyndns&logoColor=white&style=for-the-badge)
 
 **Logging & Monitoring:**  
 ![Winston](https://img.shields.io/badge/-Winston-000000?logo=nodedotjs&logoColor=white&style=for-the-badge)

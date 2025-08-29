@@ -1,24 +1,12 @@
-# Gonzalo Romero Portfolio
-
-![screenshot](./readme/gonzalowebdev.jpg)
+# Five Borough Boarders Website 🏂
 
 [![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)](https://gonzalorwebdev.mywire.org/)
 
 ## Project Introduction
 
-<!-- What is the project about? Why did you build it? Who was it built for? -->
-
 **What is this project?**
 
-This is my Portfolio Page!
-
-**Why was it built?**
-
-I want to show off my skills as a Web Developer and tell you all about me in the way I know best.
-
-**Who is it for?**
-
-If you want to hire me, it’s for you! It’s also a template that you can use to build your own portfolio site. 
+Website for Five Borough Boarders 🏂!
 
 ---
 
@@ -39,7 +27,7 @@ _Coming soon_
 
 **Deployment & Infrastructure:**  
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
-![Dynu](https://img.shields.io/badge/-Dynu-0085CA?logo=dyndns&logoColor=white&style=for-the-badge)
+<!-- ![Dynu](https://img.shields.io/badge/-Dynu-0085CA?logo=dyndns&logoColor=white&style=for-the-badge) -->
 
 **Logging & Monitoring:**  
 ![Winston](https://img.shields.io/badge/-Winston-000000?logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -52,18 +40,27 @@ _Coming soon_
 **License:**  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED.
+
+NOTE: All images and media in this repository belong to the client and
+are **not included** in the MIT license. They may **not** be reused without permission.
+
+
 ## Changelog
 
-### v1.0.10
+### v1.0.0
 
-- **Enhanced Server Startup Logging:**  
-  The logger now provides a clear, formatted, and informative output when the server starts, including environment, version, port, and a direct local URL.
-
-- **Project Structure Improvements:**  
-  - **Middleware Restructured:**  
-    All middleware functions (such as request logging) are now organized under the `middleware/` directory for better maintainability.
-  - **Utility Functions Modularized:**  
-    Utility functions (like server health checks and logging) have been moved to a dedicated `utils/` directory, making the codebase cleaner and easier to extend.
+First draft/ proof of concept.
 
 ---
 

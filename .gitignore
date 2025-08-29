@@ -95,3 +95,6 @@ public
 # Env files
 .env
 .env.*
+
+/dist
+/node_modules

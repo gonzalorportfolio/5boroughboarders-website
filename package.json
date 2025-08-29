@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-page",
+  "name": "five-borough-boarders-website",
   "version": "1.0.0",
-  "description": "Thanks for taking a look here! You can use this as a template to build your own portfolio website, or hire me to do it for you.  ",
+  "description": "Website for the Five Borough Boarders company",
   "main": "index.js",
   "scripts": {
     "build": "cd frontend && npm i && npm run build && cd ../server npm i",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gonzalorportfolio/portfolio-page.git"
+    "url": "git+https://github.com/gonzalorportfolio/5boroughboarders-website"
   },
   "author": "Gonzalo Romero",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gonzalorportfolio/portfolio-page/issues"
+    "url": "https://github.com/gonzalorportfolio/5boroughboarders-website/issues"
   },
-  "homepage": "https://github.com/gonzalorportfolio/portfolio-page#readme"
+  "homepage": "https://github.com/gonzalorportfolio/5boroughboarders-website#readme"
 }

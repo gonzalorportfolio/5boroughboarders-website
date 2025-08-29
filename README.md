@@ -2,7 +2,7 @@
 
 ![screenshot of homepage](./homepage-screenshot.jpg)
 
-[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)](https://https://5boroughboarders.giize.com//)
+[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)](https://5boroughboarders.giize.com//)
 
 ## Project Introduction
 
